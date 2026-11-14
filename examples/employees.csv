@@ -1,0 +1,7 @@
+employee_id,department,salary,location
+1,Engineering,72000,Leeds
+2,Data,68000,London
+3,Engineering,75000,Leeds
+4,Data,,Manchester
+5,Product,64000,Leeds
+5,Product,64000,Leeds
